@@ -15,7 +15,7 @@
 
 As an example
 
-1. copy the contents of rose-pine.yaml to C:\Users\<username>\.glaze-wm\config.yaml
+1. copy the contents of rose-pine.yaml to `C:\Users\<username>\.glaze-wm\config.yaml`
 2. Use the colors `*rose` for prefered coloring scheme
 
 for example in case of bar: 
@@ -30,3 +30,6 @@ foreground: *text
 
 ![Rosé Pine with GlazeWM](bar.png)
 
+## Thanks to
+
+- [jishnurajendran](https://github.com/jishnurajendran)
