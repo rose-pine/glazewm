@@ -1,4 +1,4 @@
-# name: Rosé Pine Moon
+# name: Rosé Pine
 base: &base "#191724"
 surface: &surface "#1f1d2e"
 overlay: &overlay "#26233a"
